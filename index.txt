@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width", initial-scale="1.0">
+		<ol></ol>
+		<br>
+		<hr>
+		<title>EXTRA BIGASAN</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+<body>
+	<nav class="navbar">
+	  <div class="max-width">
+	      <div class"logo"><a href="#">EXTRA<span>BIGASAN</span></a></div>
+	  </div>
+	  <ul class="menu">
+	     <li><a href="#about">About</a></li>
+	     <li><a href="#services">Services</a></li>
+	     <li><a href="#skills">Skills</a></li>
+	     <li><a href="#contact">Contact</a></li>
+	  </ul>
+	</nav>
+	<section class="about" id="about">
+		<h1>About</h1>
+		<p>We are happy to announce that our company is ready to serve you with a high quality of rice.</p>
+	</section>
+	<section class="services" id="services">
+		<h2>Services</h2>
+		<p>Services of Company</p>
+	</section>
+	<section class="skills" id="skills">
+		<h3>Skills</h3>
+		<p>Skills of Company</p>
+	</section>
+	<section class="contact" id="contact">
+		<h4>Contact</h4>
+		<p>Contact of Company</p>
+	</section>
+<footer>
+	<p>Coded by Mark</p>
+</footer>
+</body>
+</html>
+<!--Comments-->
